@@ -6,7 +6,7 @@ I will also get my hands dirty by diving into mini-projects (top-down learning).
 ## Goal:
  - Read: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition (Minimum) (we can discuss and change this as it is not a free book)
  - Read Research Papers: 1 each week (Minimum). [Research Papers](./ml-papers-todo.md)
- - Mini Projects: 1 each week (Following tutorials, kaggle, blogs, self). [Mini Projects](./mini-project-todo.md)
+ - Mini Projects: 1 each week (Following tutorials, kaggle, blogs, self). [Mini Projects](./mini-projects-todo.md)
  
 ## Rules:
  - I will go through my topics which are in the goals section each day and update my progress in the logs.
