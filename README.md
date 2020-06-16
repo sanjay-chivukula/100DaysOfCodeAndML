@@ -18,15 +18,15 @@ We will also get our hands dirty by diving into mini-projects (top-down learning
 
 # Materials
 You can find links to learn and explore ML by following the links below.
-- **Python basics:**
+**Python basics:**
   - [Python FreeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/amp/#)
   - [Automate Boring Stuff with Python](https://automatetheboringstuff.com/)
-- **ML Materials:**
+**ML Materials:**
   - [I strongly recommend this link](https://machinelearningmastery.com/start-here/#getstarted)
-- **ML Papers:**  
-It your choice if you want to read papers, though I strongly recommend to cultivate the habit of going through research papers.
+**ML Papers:**  
+It your choice if you want to read papers, though I strongly recommend to cultivate the habit of going through research papers. It is ok if you don't understand things in the first read, and you can always discuss or search online about them.
   - [Weekly ML Papers to Read](./ml-papers-todo.md)
-- **ML Mini-projects:**  
+**ML Mini-projects:**  
 People can pair up for some big projects if they want or if they want general team project experience.
   - [Weekly Mini Projects TODO](./mini-project-todo.md)  
   
