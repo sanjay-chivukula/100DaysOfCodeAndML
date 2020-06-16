@@ -27,9 +27,9 @@ You can find links to learn and explore ML by following the links below.
  - [I strongly recommend this link](https://machinelearningmastery.com/start-here/#getstarted)
 
 ## ML Papers: 
- The links for weekly papers will be posted and updated in a separate file.
+ [Weekly ML Papers to Read](./ml-papers-todo.md)
 
 ## ML Mini-projects:
- The projects and the links for each week will be posted and updated in a separate link.
+ [Weekly Mini Projects TODO](./mini-projects-todo.md)  
  People can pair up for some big projects if they want or if they want general team project experience.
 
