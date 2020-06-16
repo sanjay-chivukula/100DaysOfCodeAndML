@@ -18,18 +18,15 @@ We will also get our hands dirty by diving into mini-projects (top-down learning
 
 # Materials
 You can find links to learn and explore ML by following the links below.
-
-## Python basics:
- - [Python FreeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/amp/#)
- - [Automate Boring Stuff with Python](https://automatetheboringstuff.com/)
-
-## ML Materials:
- - [I strongly recommend this link](https://machinelearningmastery.com/start-here/#getstarted)
-
-## ML Papers: 
- [Weekly ML Papers to Read](./ml-papers-todo.md)
-
-## ML Mini-projects:
- [Weekly Mini Projects TODO](./mini-project-todo.md)  
- People can pair up for some big projects if they want or if they want general team project experience.
+- **Python basics:**
+  - [Python FreeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/amp/#)
+  - [Automate Boring Stuff with Python](https://automatetheboringstuff.com/)
+- **ML Materials:**
+  - [I strongly recommend this link](https://machinelearningmastery.com/start-here/#getstarted)
+- **ML Papers:**
+  - [Weekly ML Papers to Read](./ml-papers-todo.md)
+- **ML Mini-projects:**  
+People can pair up for some big projects if they want or if they want general team project experience.
+  - [Weekly Mini Projects TODO](./mini-project-todo.md)  
+  
 
