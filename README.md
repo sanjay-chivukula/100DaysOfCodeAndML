@@ -10,4 +10,5 @@ I will also get my hands dirty by diving into mini-projects (top-down learning).
  
 ## Rules:
  - I will go through my topics which are in the goals section each day and update my progress in the logs.
-   
+ - I will also update anything related to programming and software development that I worked on or learnt that day in the logs.
+ 
