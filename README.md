@@ -23,7 +23,8 @@ You can find links to learn and explore ML by following the links below.
   - [Automate Boring Stuff with Python](https://automatetheboringstuff.com/)
 - **ML Materials:**
   - [I strongly recommend this link](https://machinelearningmastery.com/start-here/#getstarted)
-- **ML Papers:**
+- **ML Papers:**  
+It your choice if you want to read papers, though I strongly recommend to cultivate the habit of going through research papers.
   - [Weekly ML Papers to Read](./ml-papers-todo.md)
 - **ML Mini-projects:**  
 People can pair up for some big projects if they want or if they want general team project experience.
