@@ -9,8 +9,7 @@ I will also get my hands dirty by diving into mini-projects (top-down learning).
  - Mini Projects: 1 each week (Following tutorials, kaggle, blogs, self). [Mini Projects](./mini-projects-todo.md)
  
 ## Progress Logs:
-My everyday updates related to this challenge can be found here.  
-[Progress Logs](./progress-logs.md)
+My everyday updates related to this challenge can be found here: [Progress Logs](./progress-logs.md)
  
 ## Rules:
  - I will go through my topics which are in the goals section each day and update my progress in the logs.
