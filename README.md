@@ -14,6 +14,7 @@ Apart from these I will also work on some software principles like design patter
 My everyday updates related to this challenge can be found here: [Progress Logs](./progress-logs.md)
  
 ## Rules:
+ - Spend atleast 1 hour on the above goals.
  - I will go through my topics which are in the goals section each day and update my progress in the logs.
  - I will also update anything related to programming and software development that I worked on or learnt that day in the logs.
  
