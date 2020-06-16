@@ -30,6 +30,6 @@ You can find links to learn and explore ML by following the links below.
  [Weekly ML Papers to Read](./ml-papers-todo.md)
 
 ## ML Mini-projects:
- [Weekly Mini Projects TODO](./mini-projects-todo.md)  
+ [Weekly Mini Projects TODO](./mini-project-todo.md)  
  People can pair up for some big projects if they want or if they want general team project experience.
 
