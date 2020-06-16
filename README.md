@@ -1,4 +1,4 @@
-# 100DaysOfCodeAndML
+# #100DaysOfCodeAndML
 I will be working on ML/DL/CV related concepts primarily for the challenge. 
 I will be covering topics in breath majorly and diving deeper into some (bottom-up learning). 
 I will also get my hands dirty by diving into mini-projects (top-down learning).
