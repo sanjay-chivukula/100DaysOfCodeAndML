@@ -3,8 +3,11 @@
 ### Day 003: June 16, 2020:
 
 **Today's Progress:**
+- Leetcode: [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- Leetcode: [119. Pascal's Triangle II](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- Leetcode: [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
-**Thoughts:** 
+**Thoughts:** Felt a bit lazy today, so just worked on Leetcode Recursion-I, have to finish this section in 2 more days. 
 
 
 ### Day 002: June 16, 2020:
