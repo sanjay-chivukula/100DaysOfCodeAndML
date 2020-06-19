@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 003: June 16, 2020:
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+
 ### Day 002: June 16, 2020:
 
 **Today's Progress:**
