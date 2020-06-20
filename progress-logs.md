@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 004: June 16, 2020:
+### Day 004: June 19, 2020:
 
 **Today's Progress:**
 - Finished Chapter 2 of ands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition.
@@ -8,7 +8,7 @@
 **Thoughts:** Finally some noticable progress.
 
 
-### Day 003: June 16, 2020:
+### Day 003: June 18, 2020:
 
 **Today's Progress:**
 - Leetcode: [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
@@ -18,7 +18,7 @@
 **Thoughts:** Felt a bit lazy today, so just worked on Leetcode Recursion-I, have to finish this section in 2 more days. 
 
 
-### Day 002: June 16, 2020:
+### Day 002: June 17, 2020:
 
 **Today's Progress:**
 - Read through ImageNet and AlexNet papers again but in detail. (Will try to implement the Alexnet in the coming days.)
