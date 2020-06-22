@@ -1,9 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 005: June 20, 2020:
+**Today's Progress:**
+- Started with Chapter 3 of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition.
+**Thoughts:**
+
 ### Day 004: June 19, 2020:
 
 **Today's Progress:**
-- Finished Chapter 2 of ands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition.
+- Finished Chapter 2 of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition.
 
 **Thoughts:** Finally some noticable progress.
 
