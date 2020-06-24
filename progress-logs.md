@@ -1,9 +1,38 @@
 # 100 Days Of Code - Log
 
+### Day 008: June 23, 2020:
+
+**Today's Progress:**
+- For the first mini-project I will be working on song genre classification. Started reading about it online. 
+
+**Thoughts:**
+I found application of ML/DL in audio domain to be quite interesting, deviated from the main topic a bit and read about more of it's applications.
+
+
+### Day 007: June 22, 2020:
+
+**Today's Progress:** 
+- Leetcode: [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
+- Leetcode: [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+**Thoughts:** 
+Both were really fun problems, especially the first one, had to struggle a bit to come up with the bit manipulation solution.
+
+
+### Day 006: June 21, 2020:
+
+**Today's Progress:** 
+- Finished Chapter 3 of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition.
+
+**Thoughts:**
+This was a good refresher about classification in general and helped strengthen my understanding of some of the basics.
+
 ### Day 005: June 20, 2020:
+
 **Today's Progress:**
 - Started with Chapter 3 of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition.
-**Thoughts:**
+
+**Thoughts:** Was a bit boring as the topic was about MNIST digit classification again.
 
 ### Day 004: June 19, 2020:
 
