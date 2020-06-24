@@ -27,12 +27,14 @@ Both were really fun problems, especially the first one, had to struggle a bit t
 **Thoughts:**
 This was a good refresher about classification in general and helped strengthen my understanding of some of the basics.
 
+
 ### Day 005: June 20, 2020:
 
 **Today's Progress:**
 - Started with Chapter 3 of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition.
 
 **Thoughts:** Was a bit boring as the topic was about MNIST digit classification again.
+
 
 ### Day 004: June 19, 2020:
 
