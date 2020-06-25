@@ -6,3 +6,5 @@ The aim is to not just follow the blog but also try to understand the concepts, 
  Topic: Classify images of clothing (Fashion MNIST dataset)  
  Link: https://www.tensorflow.org/tutorials/keras/classification
  
+ - **Week 2 (22 June, 2020 - 28 June, 2020):**
+ 
