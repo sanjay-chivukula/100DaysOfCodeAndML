@@ -1,3 +1,8 @@
+### Day 001: Jan 02, 2021:
+
+**Today's Progress:**
+ - Started working on Coursera: CNN Course Week 03 
+
 ### Day 000: Jan 01, 2021:
 
 **Today's Progress:**
