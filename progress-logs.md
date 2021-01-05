@@ -1,4 +1,8 @@
-### Day 001: Jan 02, 2021:
+### Day 003: Jan 04, 2021:
+**Today's Progress:**
+ - Coursera: CNN Course Week 03 (Finished)
+ 
+### Day 002: Jan 03, 2021:
 **Today's Progress:**
  - Coursera: CNN Course Week 03 (Finished video lectures)
  
